@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Marijuana",
+        "price": 1000,
+        "type": "income",
+        "date": "2021-01-25"
+    },
+    {
+        "name": "Heart",
+        "price": 10000,
+        "type": "costs",
+        "date": "2021-01-25"
+    },
+    {
+        "name": "Soul",
+        "price": 30000,
+        "type": "income",
+        "date": "2021-07-25"
+    },
+    {
+        "name": "Power of Evil",
+        "price": 15000,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "My Life",
+        "price": 1,
+        "type": "income",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "Throne",
+        "price": 10000,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "My Crown",
+        "price": 100000,
+        "type": "income",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "World",
+        "price": 50000,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "My Talent",
+        "price": 75000,
+        "type": "income",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "Pain",
+        "price": 10,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "Lets",
+        "price": 2000,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "Take Over",
+        "price": 50000,
+        "type": "costs",
+        "date": "2021-07-23"
+    },
+    {
+        "name": "The World",
+        "price": 10000,
+        "type": "costs",
+        "date": "2021-07-23"
+    }
+]
